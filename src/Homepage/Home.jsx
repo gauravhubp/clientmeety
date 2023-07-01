@@ -54,7 +54,7 @@ function Home() {
         
         <div class="row">
            <div class="row1 col-lg-6 col-md-12">
-              <h2 class="rh">Fast,reliable and secure Video Calling.</h2>
+              <h2 class="rh">Fast,reliable and secure Video Conferencing.</h2>
               <p class="row1note" >Hold incredible events,share knowledge,build and grow your community,create opportunity.</p>
                  <button class="button button5" onClick={clickLobby}><OndemandVideoIcon/> Enter The Lobby</button>
             
